@@ -1,5 +1,4 @@
 # MY PORTFOLIO
-# My Portfolio
 
 A little bit about you, put it here.
 
@@ -33,7 +32,7 @@ ___
 Put a little description of what you learned in the precourse right here.  
 
 Projects:
-* [JavaScript reference repository](link to your fork)
+* [JavaScript reference repository](https://github.com/jbelg/javascript-template)
 * Pretty Things gallery: [Repo](), [Live]()
 * Final Project: [Repo](), [Live]()
 
